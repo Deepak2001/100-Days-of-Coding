@@ -9,6 +9,7 @@ Example output
 7.5
 ```
 
+
 ```
 h=int(input())
 b=int(input())
