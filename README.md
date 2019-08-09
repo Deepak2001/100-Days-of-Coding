@@ -14,7 +14,7 @@
 12) [Sum of Digits](https://github.com/Deepak2001/100-Days-of-Coding/blob/master/2.5%20%20Numbers:%20Sum%20of%20digits.md)
 13) [Odd or Even](https://github.com/Deepak2001/100-Days-of-Coding/blob/master/3.1%20If%20%26%20else:%20Odd%20or%20even.md)
 14) [Minimum of Three Numbers](https://github.com/Deepak2001/100-Days-of-Coding/blob/master/3.8%20If%20%26%20else:%20Minimum%20of%20three%20numbers.md)
-15) [Days in a monnth](https://github.com/Deepak2001/100-Days-of-Coding/blob/master/3.9%20If%20%26%20else:%20Days%20in%20month.md)
+15) [Days in a month](https://github.com/Deepak2001/100-Days-of-Coding/blob/master/3.9%20If%20%26%20else:%20Days%20in%20month.md)
 16) [Leap Year](https://github.com/Deepak2001/100-Days-of-Coding/blob/master/3.J%20If%20%26%20else:%20Leap%20year.md)
 17) [Jugs For Three](https://github.com/Deepak2001/100-Days-of-Coding/blob/master/3.P%20%20Jugs%20for%20Three.md)
 18) [Mugs For Five](https://github.com/Deepak2001/100-Days-of-Coding/blob/master/3.Q%20Mugs%20for%20Five.md)
