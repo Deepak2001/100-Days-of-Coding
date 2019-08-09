@@ -1,8 +1,8 @@
 # 100-Days-of-Coding
 
 1) [Blockly Maze Completion](https://github.com/Deepak2001/100-Days-of-Coding/blob/master/0.1%20Level10.md)
-2) [HugRight](https://github.com/Deepak2001/100-Days-of-Coding/blob/master/0.2%20HugRight.md)
-3) [HugLeft](https://github.com/Deepak2001/100-Days-of-Coding/blob/master/0.3%20HugLeft.md)
+2) [Hug Right](https://github.com/Deepak2001/100-Days-of-Coding/blob/master/0.2%20HugRight.md)
+3) [Hug Left](https://github.com/Deepak2001/100-Days-of-Coding/blob/master/0.3%20HugLeft.md)
 4) [Sum of Three Numbers](https://github.com/Deepak2001/100-Days-of-Coding/blob/master/1.1%20Input%20Print%20:%20Sum%20of%20three%20numbers.md)
 5) [Area of Triangle](https://github.com/Deepak2001/100-Days-of-Coding/blob/master/1.2%20Input%20%26%20Output%20:%20Area%20of%20Triangle.md)
 6) [Hello Harry!](https://github.com/Deepak2001/100-Days-of-Coding/blob/master/1.3%20Input%20%26%20Print%20:%20Hello%2CHarry!.md)
@@ -18,7 +18,7 @@
 16) [Leap Year](https://github.com/Deepak2001/100-Days-of-Coding/blob/master/3.J%20If%20%26%20else:%20Leap%20year.md)
 17) [Jugs For Three](https://github.com/Deepak2001/100-Days-of-Coding/blob/master/3.P%20%20Jugs%20for%20Three.md)
 18) [Mugs For Five](https://github.com/Deepak2001/100-Days-of-Coding/blob/master/3.Q%20Mugs%20for%20Five.md)
-19) [Jugs Mmugs Pugs](https://github.com/Deepak2001/100-Days-of-Coding/blob/master/3.R%20%20JugsMugsPugs.md)
+19) [Jugs Mugs Pugs](https://github.com/Deepak2001/100-Days-of-Coding/blob/master/3.R%20%20JugsMugsPugs.md)
 20) [Jugs Mugs Pugs Lite](https://github.com/Deepak2001/100-Days-of-Coding/blob/master/3.S%20JugsMugsPugs%20Lite.md)
 21) [Jugs Mugs Pugs Plus](https://github.com/Deepak2001/100-Days-of-Coding/blob/master/3.U%20JugsMugsPugsPlus.md)
 22) [Digits in Number](https://github.com/Deepak2001/100-Days-of-Coding/blob/master/5.D%20%20Membership%20:%20Digit%20in%20Number.md)
