@@ -22,5 +22,5 @@
 20) [Jugs Mugs Pugs Lite](https://github.com/Deepak2001/100-Days-of-Coding/blob/master/3.S%20JugsMugsPugs%20Lite.md)
 21) [Jugs Mugs Pugs Plus](https://github.com/Deepak2001/100-Days-of-Coding/blob/master/3.U%20JugsMugsPugsPlus.md)
 22) [Digits in Number](https://github.com/Deepak2001/100-Days-of-Coding/blob/master/5.D%20%20Membership%20:%20Digit%20in%20Number.md)
-23) [3.W. JugsMugsPugs Range](https://github.com/Deepak2001/100-Days-of-Coding/blob/master/3.W%20JugsMugsPugs%20Range.md)
+23) [JugsMugsPugs Range](https://github.com/Deepak2001/100-Days-of-Coding/blob/master/3.W%20JugsMugsPugs%20Range.md)
 24) []
