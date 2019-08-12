@@ -25,3 +25,4 @@
 23) [JugsMugsPugs Range](https://github.com/Deepak2001/100-Days-of-Coding/blob/master/3.W%20JugsMugsPugs%20Range.md)
 24) [JugsMugsPugsPlus Special](https://github.com/Deepak2001/100-Days-of-Coding/blob/master/3.X.%20JugsMugsPugs%20Special.md)
 25) [JugsMugsPugsPlus Reverse](https://github.com/Deepak2001/100-Days-of-Coding/blob/master/3.V.%20JugsMugsPugsPlus%20Reverse.md)
+26) [Sum of N numbers](https://github.com/Deepak2001/100-Days-of-Coding/blob/master/4.4%20%20:%20Sum%20of%20N%20numbers)
