@@ -28,3 +28,5 @@
 26) [Sum of N numbers](https://github.com/Deepak2001/100-Days-of-Coding/blob/master/4.4%20%20Sum%20of%20N%20numbers.md)
 27) [Sum of Factorials](https://github.com/Deepak2001/100-Days-of-Coding/blob/master/4.8%20Sum%20of%20Factorials.md)
 28) [Sum of Cubes](https://github.com/Deepak2001/100-Days-of-Coding/blob/master/4.5%20Sum%20of%20Cubes.md)
+29) [Ladder](https://github.com/Deepak2001/100-Days-of-Coding/blob/master/4.A%20Ladder.md)
+30) [Lost card](https://github.com/Deepak2001/100-Days-of-Coding/blob/master/4.9%20Lost%20card.md)
