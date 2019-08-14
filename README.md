@@ -30,3 +30,4 @@
 28) [Sum of Cubes](https://github.com/Deepak2001/100-Days-of-Coding/blob/master/4.5%20Sum%20of%20Cubes.md)
 29) [Ladder](https://github.com/Deepak2001/100-Days-of-Coding/blob/master/4.A%20Ladder.md)
 30) [Lost card](https://github.com/Deepak2001/100-Days-of-Coding/blob/master/4.9%20Lost%20card.md)
+31)  [Second Maximum](https://github.com/Deepak2001/100-Days-of-Coding/blob/master/6.C%20Second%20maximum.md)
