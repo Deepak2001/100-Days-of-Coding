@@ -36,3 +36,5 @@
 34) [Reverse Fragments](https://github.com/Deepak2001/100-Days-of-Coding/blob/master/5.8.%20Reverse%20fragment.md)
 35) [Remove Fragments](https://github.com/Deepak2001/100-Days-of-Coding/blob/master/5.7%20%20Remove%20fragment.md)
 36) [Replace in fragment](https://github.com/Deepak2001/100-Days-of-Coding/blob/master/5.B%20Replace%20in%20fragment.md)
+37) [Even Indices](https://github.com/Deepak2001/100-Days-of-Coding/blob/master/7.1%20Even%20Indices.md)
+38) [Same Sign Neighbors](https://github.com/Deepak2001/100-Days-of-Coding/blob/master/7.4%20Same%20Sign%20Neighbors.md)
