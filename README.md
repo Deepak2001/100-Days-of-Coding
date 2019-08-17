@@ -50,3 +50,5 @@
 48) [Synonyms](https://github.com/Deepak2001/100-Days-of-Coding/blob/master/A.2%20Dicts%20:%20Synonyms.md)
 49) [Elections](https://github.com/Deepak2001/100-Days-of-Coding/blob/master/A.3%20Dicts%20:%20Elections.md)
 50) [Most Frequent Words](https://github.com/Deepak2001/100-Days-of-Coding/blob/master/A.4%20Dicts%20:%20Most%20frequent%20word.md)
+51) [Coutries and Cities](https://github.com/Deepak2001/100-Days-of-Coding/blob/master/A.6%20Dicts%20:%20Countries%20and%20cities.md)
+52) [Frequency Analysis](https://github.com/Deepak2001/100-Days-of-Coding/blob/master/A.7%20Dicts%20:%20Frequency%20analysis.md)
