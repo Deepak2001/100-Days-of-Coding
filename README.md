@@ -32,3 +32,7 @@
 30) [Lost card](https://github.com/Deepak2001/100-Days-of-Coding/blob/master/4.9%20Lost%20card.md)
 31) [Second Maximum](https://github.com/Deepak2001/100-Days-of-Coding/blob/master/6.C%20Second%20maximum.md)
 32) [Spy Plane](https://github.com/Deepak2001/100-Days-of-Coding/blob/master/4.X%20Spy%20Plane.md)
+33) [String Slices](https://github.com/Deepak2001/100-Days-of-Coding/blob/master/5.1%20String%20Slices.md)
+34) [Reverse Fragments](https://github.com/Deepak2001/100-Days-of-Coding/blob/master/5.8.%20Reverse%20fragment.md)
+35) [Remove Fragments](https://github.com/Deepak2001/100-Days-of-Coding/blob/master/5.7%20%20Remove%20fragment.md)
+36) [Replace in fragment](https://github.com/Deepak2001/100-Days-of-Coding/blob/master/5.B%20Replace%20in%20fragment.md)
