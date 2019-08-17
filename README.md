@@ -42,3 +42,4 @@
 40) [Greater Than Left Neighbor](https://github.com/Deepak2001/100-Days-of-Coding/blob/master/7.3%20Greater%20than%20left%20neighbor.md)
 41) [Greater Than Neighbor](https://github.com/Deepak2001/100-Days-of-Coding/blob/master/7.5%20Greater%20than%20neighbors.md)
 42) [Number of Distinct Elements](https://github.com/Deepak2001/100-Days-of-Coding/blob/master/7.6%20Number%20of%20distinct%20elements.md)
+43) [Swap Neighbors](https://github.com/Deepak2001/100-Days-of-Coding/blob/master/7.7%20Swap%20Neighbors)
