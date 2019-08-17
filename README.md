@@ -40,4 +40,5 @@
 38) [Same Sign Neighbors](https://github.com/Deepak2001/100-Days-of-Coding/blob/master/7.4%20Same%20Sign%20Neighbors.md)
 39) [List Even Elements](https://github.com/Deepak2001/100-Days-of-Coding/blob/master/7.2%20List%20Even%20Elements.md)
 40) [Greater Than Left Neighbor](https://github.com/Deepak2001/100-Days-of-Coding/blob/master/7.3%20Greater%20than%20left%20neighbor.md)
-41) []
+41) [Greater Than Neighbor](https://github.com/Deepak2001/100-Days-of-Coding/blob/master/7.5%20Greater%20than%20neighbors.md)
+42) [Number of Distinct Elements](https://github.com/Deepak2001/100-Days-of-Coding/blob/master/7.6%20Number%20of%20distinct%20elements.md)
